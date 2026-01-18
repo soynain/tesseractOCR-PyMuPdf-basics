@@ -23,7 +23,6 @@ dependiendo contexto y precisión, así como costos.
 Para esta práctica usé un PDF que saqué de por ahi... no puedo mostrarlo todo. pero maso una parte
 luce así:
 
-<img width="1426" height="224" alt="image" src="https://github.com/user-attachments/assets/574f7fc1-a874-46b0-885d-193e58847260" />
 
 Si lo metes en OpenAI la imagen, te extrae esto:
 
@@ -236,7 +235,8 @@ También puede ser aplicable si se requiriera de pdfs digitalizados para crear u
 esto solo es en PDFS digitalizados, es más fácil usar pymupdf y extraer el texto directamente con la librería, solo si en el pdf te permite
 seleccionar el texto ^^
 
-<img width="702" height="487" alt="image" src="https://github.com/user-attachments/assets/f086e13c-8518-46ea-a5fe-f4aa0348781c" />
+<img width="570" height="315" alt="image" src="https://github.com/user-attachments/assets/9b0cd809-52e6-4647-84d0-caf3f65bdcf3" />
+
 
 
 Muy importante que si tendrás estos escenarios contemplados, uses los metadatos de un documento para guardar información extra
